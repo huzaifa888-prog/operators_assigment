@@ -1,3 +1,7 @@
+## A taxi charges Rs. 300 as a base fare and Rs. 50 per kilometer. You travel 8 km.
+
+    # Create variables and calculate the total fare.
+
 bare_fare = 300
 charges_per_km = 50
 travel = 8
